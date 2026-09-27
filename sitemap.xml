@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  sitemap.xml — Sherine Zarif Farhan Portfolio
+  Single-page site: one <url> entry pointing to the root.
+  Update <lastmod> whenever you make significant content changes.
+  Replace [PLACEHOLDER: your-domain.com] with your real domain before deploying.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://[PLACEHOLDER: your-domain.com]/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

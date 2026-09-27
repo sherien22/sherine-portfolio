@@ -1,0 +1,11 @@
+# robots.txt — Sherine Zarif Farhan Portfolio
+# https://[PLACEHOLDER: your-domain.com]/robots.txt
+
+User-agent: *
+Allow: /
+
+# Block access to any private or config-only directories
+Disallow: /cv/
+Disallow: /.kiro/
+
+Sitemap: https://[PLACEHOLDER: your-domain.com]/sitemap.xml
